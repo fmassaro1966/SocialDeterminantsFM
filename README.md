@@ -1,9 +1,9 @@
-Project Title: A clear and descriptive name for the project.
-Description: An explanation of what the project does, why it is useful, and the technologies used.
-Table of Contents (Optional): Useful for long README files to improve navigation.
-Installation Instructions: A step-by-step guide on how to get the project running locally, including any dependencies.
-Usage Examples: Instructions and examples (often with code snippets) for how to use the project.
-Contribution Guidelines: Details on how others can contribute to the project (e.g., submitting issues or pull requests).
-Credits: A list of collaborators or resources that were referenced.
-License: Information on the license under which the software is released, often linking to a separate LICENSE.txt file.
+Project Title: "Social determinants in the United States"
+Description: This project is for the Keystone and needs additional work. 
+Table of Contents:Not enough done yet to need
+Installation Instructions: Using the CSV data to show correlations and percentages from homelessness, no intenet, no vehicles and no high school diploma.
+Usage Examples: Used Matplotlib, Pandas, Seaborn, Numpy, Pandas, and Jupyter Notebook.
+Contribution Guidelines: Data got messed up as I added tables and reran some earlier data. 
+Credits: Blake for the education in github and Ailene for her patience and pushing me to do better
 Screenshots/Visual Aids (Optional): Images or GIFs can make the project more engaging and easier to understand. 
+<img width="224" height="148" alt="image" src="https://github.com/user-attachments/assets/2109fa9d-35a6-47ca-9229-79e429015544" /> For what I look like when it is over. 
