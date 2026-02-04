@@ -12,9 +12,10 @@
 
 6.  Data contribution is from CDC/ATSDR SVI 2022 
 
-SVI-Overall-Theme-Indicator-Image (Removed Useless ethnicity in file)
+7. SVI-Overall-Theme-Indicator-Image (Removed Useless ethnicity in file)
 ![alt text](image.png)
 
 8. <img width="224" height="148" alt="image" src="https://github.com/user-attachments/assets/2109fa9d-35a6-47ca-9229-79e429015544" /> For what I look like when it is over. 
+
 
 
